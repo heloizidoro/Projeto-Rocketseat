@@ -5,7 +5,6 @@ Projeto criado para fins de estudo, promovido pela Rockseat para ensino de tecno
 https://github.com/maykbrito/devlinks
 </p>
 <br>
-<br>
 <p align="left"><b>  Tecnologias </b></p>
 <br>
 Este projeto foi desenvolvido com as seguintes tecnologias:
