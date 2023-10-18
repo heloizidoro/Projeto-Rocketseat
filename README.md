@@ -7,8 +7,11 @@ https://github.com/maykbrito/devlinks
 
 <p align="left">  Tecnologias </p>
 Este projeto foi desenvolvido com as seguintes tecnologias:
+<br>
  - HTML e CSS
+ <br>
  - Javascript
+ <br>
  - Git e Github
 
  <p align="left">  Projeto </p>
