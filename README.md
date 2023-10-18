@@ -5,7 +5,7 @@ Projeto criado para fins de estudo, promovido pela Rockseat para ensino de tecno
 https://github.com/maykbrito/devlinks
 </p>
 
-<p align="left">  Tecnologias </p>
+<p align="left"><b>  Tecnologias </b></p>
 Este projeto foi desenvolvido com as seguintes tecnologias:
 <br>
  - HTML e CSS
@@ -14,5 +14,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
  <br>
  - Git e Github
 
- <p align="left">  Projeto </p>
+ <p align="left"><b>  Projeto </b></p>
 Um agregador de links para usar como cartão de visitas online.
