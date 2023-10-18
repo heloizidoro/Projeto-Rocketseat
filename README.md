@@ -10,6 +10,3 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
  - HTML e CSS
  - Javascript
  - Git e Github
-
- <p align="center">  Projeto </p>
-Um agregador de links para usar como cartão de visitas online.
